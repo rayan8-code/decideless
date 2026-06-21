@@ -28,30 +28,6 @@ DecideLess is an intelligent, mobile-first web application designed to eliminate
 - **Task Scheduling:** [Upstash QStash](https://upstash.com/)
 - **Icons:** [Lucide React](https://lucide.dev/)
 
-## 🚀 Getting Started
-
-If you have access to the source code, you can run this project locally by following these steps:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/decideless.git
-cd decideless
-```
-
-### 2. Install dependencies
-```bash
-npm install
-```
-
-### 3. Set up environment variables
-Create a `.env.local` file in the root directory and add the necessary API keys for Firebase, Gemini, OpenAI, Upstash, and Resend.
-
-### 4. Run the development server
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 ## 📂 Architecture & Structure
 
 - `/app`: Next.js App Router pages supporting core features like Home, Chat, Library, Onboarding, Profile, and Authentication.
