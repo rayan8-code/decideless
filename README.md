@@ -60,12 +60,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `/lib`: Utility functions and integrations (Firebase client/admin configuration, AI helpers).
 - `/hooks`: Custom React hooks for reusable logic across components.
 
-## 🤝 Team & Contributors
-
-This project was collaboratively built by:
-- **[Your Name]** - [Link to your GitHub/Portfolio]
-- **[Your Partner's Name]** - [Link to your Partner's GitHub]
-
 ## 📄 License
 
 This project is currently private and proprietary. All rights reserved.
